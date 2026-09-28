@@ -1,0 +1,32 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <SHA1>6d4be2c52bda9baa82ae79a800e1578835d6f08c</SHA1>
+ <MetadataName>2026-09-27-2334_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>gg.rift.bootstrap</Name>
+  <DisplayName>RIFT Launcher</DisplayName>
+  <Description>Inicialização e atualização automática do RIFT.</Description>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2026-09-27</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="13493" OS="Any" UncompressedSize="54596"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>568b45dacb222e74a1702fdd75e4c4af0d6879b4</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>gg.rift.app</Name>
+  <DisplayName>RIFT</DisplayName>
+  <Description>RIFT by BREAK</Description>
+  <Version>0.1.2</Version>
+  <ReleaseDate>2026-09-27</ReleaseDate>
+  <Default>true</Default>
+  <UpdateText>AtualizaÃ§Ã£o do RIFT.</UpdateText>
+  <UpdateFile CompressedSize="18923488" OS="Any" UncompressedSize="68918166"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>22952525c4a253e9df3649c287d0d82e201d7aa1</SHA1>
+ </PackageUpdate>
+</Updates>
