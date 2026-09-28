@@ -2,36 +2,36 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>e8a0dc62020e281cc11cf0289933b5e65a161772</SHA1>
- <MetadataName>2026-09-28-1553_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>gg.rift.bootstrap</Name>
-  <DisplayName>RIFT Launcher</DisplayName>
-  <Description>Inicialização e atualização automática do RIFT.</Description>
-  <Version>0.0.2</Version>
-  <ReleaseDate>2026-09-28</ReleaseDate>
-  <Default>true</Default>
-  <ForcedInstallation>true</ForcedInstallation>
-  <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="25335" OS="Any" UncompressedSize="425302"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>5fec1936176c4818416a5772a0474c0ff34d895a</SHA1>
- </PackageUpdate>
+ <SHA1>0618842aaae2d75bc77e0fdad4f59fa1b3f19362</SHA1>
+ <MetadataName>2026-09-28-1727_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.0.3</Version>
+  <Version>0.0.4</Version>
   <ReleaseDate>2026-09-28</ReleaseDate>
   <Default>true</Default>
   <UpdateText>
         Nova identidade visual e termos de uso do BREAK™ | RIFT.
     </UpdateText>
-  <UpdateFile CompressedSize="18937352" OS="Any" UncompressedSize="69300115"/>
+  <UpdateFile CompressedSize="18938626" OS="Any" UncompressedSize="69306952"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>6fe6c47e17c6e7cde469d46e6ca0f5b165a1d9e3</SHA1>
+  <SHA1>493d32a92f75c2cdcf14fb1db12bcbfb774ce1be</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>gg.rift.bootstrap</Name>
+  <DisplayName>RIFT Launcher</DisplayName>
+  <Description>Inicialização e atualização automática do RIFT.</Description>
+  <Version>0.0.4</Version>
+  <ReleaseDate>2026-09-28</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="58270" OS="Any" UncompressedSize="555268"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>47964310be8a2ec455f5293e24fa348b96b3355c</SHA1>
  </PackageUpdate>
 </Updates>
