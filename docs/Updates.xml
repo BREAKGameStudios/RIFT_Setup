@@ -2,36 +2,36 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>ebbf7aac997b16ec7b0241610f3b60e45a2b8006</SHA1>
- <MetadataName>2026-10-03-2025_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>gg.rift.bootstrap</Name>
-  <DisplayName>RIFT Launcher</DisplayName>
-  <Description>Inicialização e atualização automática do RIFT.</Description>
-  <Version>0.0.4</Version>
-  <ReleaseDate>2026-09-28</ReleaseDate>
-  <Default>true</Default>
-  <ForcedInstallation>true</ForcedInstallation>
-  <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="58270" OS="Any" UncompressedSize="555268"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>47964310be8a2ec455f5293e24fa348b96b3355c</SHA1>
- </PackageUpdate>
+ <SHA1>f574defc66a3d139235da0bb75e2704579dc28ec</SHA1>
+ <MetadataName>2026-10-03-2053_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.1</Version>
+  <Version>0.1.2</Version>
   <ReleaseDate>2026-10-03</ReleaseDate>
   <Default>true</Default>
   <UpdateText>
-        Nova tela de restauração de sessão e melhorias no fluxo de inicialização.
+        Corrige a identificação incorreta do RIFT como outro jogo pelo Discord.
     </UpdateText>
-  <UpdateFile CompressedSize="19125169" OS="Any" UncompressedSize="70160848"/>
+  <UpdateFile CompressedSize="19336464" OS="Any" UncompressedSize="71410818"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>276b915ef17774d17ecb4e5824c1e4e63c27881f</SHA1>
+  <SHA1>c4adfc8246b53d776ab21c29dff720c82ffd2167</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>gg.rift.bootstrap</Name>
+  <DisplayName>RIFT Launcher</DisplayName>
+  <Description>Inicialização e atualização automática do RIFT.</Description>
+  <Version>0.0.5</Version>
+  <ReleaseDate>2026-10-03</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="60052" OS="Any" UncompressedSize="561012"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>92fd97a18feb328610d5068aad8b443036061e4b</SHA1>
  </PackageUpdate>
 </Updates>
