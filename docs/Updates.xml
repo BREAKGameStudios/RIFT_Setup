@@ -2,25 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>f574defc66a3d139235da0bb75e2704579dc28ec</SHA1>
- <MetadataName>2026-10-03-2053_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>gg.rift.app</Name>
-  <DisplayName>RIFT</DisplayName>
-  <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.2</Version>
-  <ReleaseDate>2026-10-03</ReleaseDate>
-  <Default>true</Default>
-  <UpdateText>
-        Corrige a identificação incorreta do RIFT como outro jogo pelo Discord.
-    </UpdateText>
-  <UpdateFile CompressedSize="19336464" OS="Any" UncompressedSize="71410818"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <Licenses>
-   <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
-  </Licenses>
-  <SHA1>c4adfc8246b53d776ab21c29dff720c82ffd2167</SHA1>
- </PackageUpdate>
+ <SHA1>e4959eb5d1233871817af868bbd97698a6595114</SHA1>
+ <MetadataName>2026-10-03-2113_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -33,5 +16,22 @@
   <UpdateFile CompressedSize="60052" OS="Any" UncompressedSize="561012"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>92fd97a18feb328610d5068aad8b443036061e4b</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>gg.rift.app</Name>
+  <DisplayName>RIFT</DisplayName>
+  <Description>Cliente e plataforma BREAK™ | RIFT</Description>
+  <Version>0.1.3</Version>
+  <ReleaseDate>2026-10-03</ReleaseDate>
+  <Default>true</Default>
+  <UpdateText>
+        Conclui a migração do executável do RIFT e remove arquivos antigos.
+    </UpdateText>
+  <UpdateFile CompressedSize="19130749" OS="Any" UncompressedSize="70160848"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
+  </Licenses>
+  <SHA1>2d3e89687bbb6ddd70120fa6a193c268787260f9</SHA1>
  </PackageUpdate>
 </Updates>
