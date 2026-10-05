@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>e4959eb5d1233871817af868bbd97698a6595114</SHA1>
- <MetadataName>2026-10-03-2113_meta.7z</MetadataName>
+ <SHA1>1b994abef6916d0cf82ffd3c5f5c7808c41e29bc</SHA1>
+ <MetadataName>2026-10-05-2048_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -21,17 +21,19 @@
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.3</Version>
-  <ReleaseDate>2026-10-03</ReleaseDate>
+  <Version>0.1.4</Version>
+  <ReleaseDate>2026-10-05</ReleaseDate>
   <Default>true</Default>
+  <Script>installscript.qs</Script>
   <UpdateText>
-        Conclui a migração do executável do RIFT e remove arquivos antigos.
+        Adiciona biblioteca de jogos, download retomável, instalação segura,
+        atualização, reparo, desinstalação e execução com presença em jogo.
     </UpdateText>
-  <UpdateFile CompressedSize="19130749" OS="Any" UncompressedSize="70160848"/>
+  <UpdateFile CompressedSize="19210683" OS="Any" UncompressedSize="70478914"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>2d3e89687bbb6ddd70120fa6a193c268787260f9</SHA1>
+  <SHA1>bd71cab902f94ea5a35245dab6414295c2787bf3</SHA1>
  </PackageUpdate>
 </Updates>
