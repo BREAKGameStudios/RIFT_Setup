@@ -2,35 +2,35 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <SHA1>322068df1b2a09a5cac9923766a563437755a825</SHA1>
+ <MetadataName>2026-10-23-1814_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.6</Version>
-  <ReleaseDate>2026-10-13</ReleaseDate>
+  <Version>0.1.7</Version>
+  <ReleaseDate>2026-10-23</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateText>Corrige a identidade de jogadores em builds empacotadas e preserva o contexto RCM ao iniciar jogos Unreal.</UpdateText>
-  <UpdateFile CompressedSize="19281338" OS="Any" UncompressedSize="71135209"/>
+  <UpdateText>Atualiza a identidade visual e os ícones do RIFT.</UpdateText>
+  <UpdateFile CompressedSize="19303812" OS="Any" UncompressedSize="71160141"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>b06e71fc433a5ba3cc1be0088ae15cdb1adeabfa</SHA1>
+  <SHA1>9dad03377d4abbcf75887ccf0b0b6903489eaa7f</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
   <Description>Inicialização e atualização automática do RIFT.</Description>
-  <Version>0.0.5</Version>
-  <ReleaseDate>2026-10-03</ReleaseDate>
+  <Version>0.0.6</Version>
+  <ReleaseDate>2026-10-23</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="60052" OS="Any" UncompressedSize="561012"/>
+  <UpdateFile CompressedSize="57585" OS="Any" UncompressedSize="563572"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>3209e18783bb5538f25285f9cc6698e69e349c72</SHA1>
+  <SHA1>df1ed6a6f2b5d67f0a39d97f70a12973457fcb5c</SHA1>
  </PackageUpdate>
- <SHA1>9f07d9aeace449830c8bfee4e55d76d2956550a2</SHA1>
- <MetadataName>2026-10-13-0222_meta.7z</MetadataName>
 </Updates>
