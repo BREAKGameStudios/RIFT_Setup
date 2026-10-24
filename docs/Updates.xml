@@ -2,24 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>198ca9ea95f7b17fcafd3b592c410a1fbbd27b6b</SHA1>
- <MetadataName>2026-10-23-1825_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>gg.rift.app</Name>
-  <DisplayName>RIFT</DisplayName>
-  <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.7</Version>
-  <ReleaseDate>2026-10-23</ReleaseDate>
-  <Default>true</Default>
-  <Script>installscript.qs</Script>
-  <UpdateText>Atualiza a identidade visual e os ícones do RIFT.</UpdateText>
-  <UpdateFile CompressedSize="19303812" OS="Any" UncompressedSize="71160141"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <Licenses>
-   <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
-  </Licenses>
-  <SHA1>9dad03377d4abbcf75887ccf0b0b6903489eaa7f</SHA1>
- </PackageUpdate>
+ <SHA1>78f2f9f7bed432a53c124b73f0f6e623e04d5eba</SHA1>
+ <MetadataName>2026-10-24-0224_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -32,5 +16,21 @@
   <UpdateFile CompressedSize="57393" OS="Any" UncompressedSize="563572"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>7cb221c324b9d3cbaff4063f0ae5343174e50f43</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>gg.rift.app</Name>
+  <DisplayName>RIFT</DisplayName>
+  <Description>Cliente e plataforma BREAK™ | RIFT</Description>
+  <Version>0.1.9</Version>
+  <ReleaseDate>2026-10-24</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateText>Adiciona verificação automática de e-mail e redefinição de senha.</UpdateText>
+  <UpdateFile CompressedSize="19306933" OS="Any" UncompressedSize="71179242"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
+  </Licenses>
+  <SHA1>2034398d37c7106c5c488d779d48c63095cce5ab</SHA1>
  </PackageUpdate>
 </Updates>
