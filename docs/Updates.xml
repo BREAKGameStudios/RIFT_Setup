@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>6607ea22307a5ee2b7ea67a823115684dc99324b</SHA1>
- <MetadataName>2026-10-29-0154_meta.7z</MetadataName>
+ <SHA1>471def11a6e71633ee1106fab732e19c12d88ca7</SHA1>
+ <MetadataName>2026-10-29-1811_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -21,16 +21,16 @@
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.11</Version>
+  <Version>0.1.12</Version>
   <ReleaseDate>2026-10-29</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateText>Adiciona a Loja e separa o catálogo de jogos da Sua Biblioteca.</UpdateText>
-  <UpdateFile CompressedSize="19270910" OS="Any" UncompressedSize="70653712"/>
+  <UpdateText>Corrige a retomada de downloads pausados e a remoção de dados parciais ao desinstalar.</UpdateText>
+  <UpdateFile CompressedSize="19261388" OS="Any" UncompressedSize="70536129"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>356be8a4b8ae2417bbc56cee186a9ddca6d09155</SHA1>
+  <SHA1>dd55c4f9dc703ce60b9697b6435e81b70f2a9dfc</SHA1>
  </PackageUpdate>
 </Updates>
