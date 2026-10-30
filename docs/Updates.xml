@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>eed0bc82bf25b0868e87ce730cfb2d3bfd811845</SHA1>
- <MetadataName>2026-10-29-1852_meta.7z</MetadataName>
+ <SHA1>abc0b387a8925c6198bd9c4d6d8e4ca419196735</SHA1>
+ <MetadataName>2026-10-30-0029_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -21,16 +21,16 @@
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.15</Version>
+  <Version>0.1.16</Version>
   <ReleaseDate>2026-10-29</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateText>Estabiliza o botão de cancelamento e mostra o motivo real de falhas devolvidas pelo armazenamento.</UpdateText>
-  <UpdateFile CompressedSize="19253099" OS="Any" UncompressedSize="70532489"/>
+  <UpdateText>Restaura pausa, retomada por Range e remoção dos dados parciais pela opção Desinstalar.</UpdateText>
+  <UpdateFile CompressedSize="19258608" OS="Any" UncompressedSize="70537665"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>c5978f860215e130b9cbee73d0c7f0b3238d6a1a</SHA1>
+  <SHA1>0819fe846e89f8beafad677b7c564f5c1357c509</SHA1>
  </PackageUpdate>
 </Updates>
