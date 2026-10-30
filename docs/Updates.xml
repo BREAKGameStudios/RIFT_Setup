@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>abc0b387a8925c6198bd9c4d6d8e4ca419196735</SHA1>
- <MetadataName>2026-10-30-0029_meta.7z</MetadataName>
+ <SHA1>771a86efe735435361a31126c3817cf824612bcb</SHA1>
+ <MetadataName>2026-10-30-0041_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>gg.rift.bootstrap</Name>
   <DisplayName>RIFT Launcher</DisplayName>
@@ -21,16 +21,16 @@
   <Name>gg.rift.app</Name>
   <DisplayName>RIFT</DisplayName>
   <Description>Cliente e plataforma BREAK™ | RIFT</Description>
-  <Version>0.1.16</Version>
+  <Version>0.1.17</Version>
   <ReleaseDate>2026-10-29</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateText>Restaura pausa, retomada por Range e remoção dos dados parciais pela opção Desinstalar.</UpdateText>
-  <UpdateFile CompressedSize="19258608" OS="Any" UncompressedSize="70537665"/>
+  <UpdateText>Corrige o estado da biblioteca durante a instalação e adiciona a ação Ver pasta.</UpdateText>
+  <UpdateFile CompressedSize="19255439" OS="Any" UncompressedSize="70539429"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="terms.txt" name="Termos de Uso do BREAK™ | RIFT"/>
   </Licenses>
-  <SHA1>0819fe846e89f8beafad677b7c564f5c1357c509</SHA1>
+  <SHA1>9898dbede6f62e5613602da70bcab45d667dc043</SHA1>
  </PackageUpdate>
 </Updates>
